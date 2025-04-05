@@ -19,3 +19,14 @@ A modern and intuitive solution designed to help you practice and improve interv
 ## 🧭 Workflow Diagram
 
 ![MockMentor Workflow](./public/mockmentor-workflow.png)
+
+
+
+## 🛠️ Tech Stack
+
+- **Next.js**
+- **Firebase** 
+- **Tailwind CSS**
+- **Vapi AI** 
+- **shadcn/ui**
+- **Google Gemini** 
